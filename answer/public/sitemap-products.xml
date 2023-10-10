@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+  <url>
+    <loc>https://www.example.com/product/1</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/2</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/3</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/4</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/5</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/6</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/7</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/8</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/9</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/10</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/11</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/12</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/13</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/14</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/15</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/16</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/17</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/18</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/19</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.example.com/product/20</loc>
+    <lastmod>2023-10-08T12:24:58.701Z</lastmod>
+  </url>
+</urlset>
